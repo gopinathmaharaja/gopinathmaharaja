@@ -7,78 +7,42 @@ A passionate Software Developer with over 5 years of experience from Chennai, In
 - 🌱 I’m currently learning Machine Learning and GO Lang.
 - 💬 Ask me about Node.js, React, Angular, or any web development-related topics.
 - 📫 How to reach me: gopinathmaharaja@gmail.com
-- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/gopinath​-maharaja-235133142)
+- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/gopinath-maharaja)
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopinath​-maharaja-235133142)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopinath-maharaja)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopinathmaharaja)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopinathmaharaja@gmail.com)
 
 ## Skills and Tools
 
-### Languages
-- JavaScript
-- TypeScript
-- GO Lang
-
-### Web Technologies
-- HTML
-- CSS
-- JSON
-- SWIG
-- Node.js
-- React
-- Angular
-- Sequelize ORM
-
-### Databases
-- PostgreSQL
-- MySQL
-- SQLite
-- MongoDB
-- Redis
-
-### Frameworks
-- React Native
-- Express
-- NestJS
-- GO Fiber
-
-### Cloud Services
-- AWS (ECS, S3, RDS, CICD, ECR, IAM)
-
-### Tools and Editors
-- Visual Studio
-- Notepad++
-- Sublime
-
-### Others
-- Highcharts
-- Google APIs
-- Twilio APIs
-- Kafka
-- Bull Queue
-
-### Operating Systems
-- Windows 10/11
-- Mac
-- Linux
-
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![GO](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-4c4c4c?style=for-the-badge&logo=sublime-text&logoColor=ff9800)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Support:
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
