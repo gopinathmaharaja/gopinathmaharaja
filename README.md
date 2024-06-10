@@ -44,9 +44,6 @@ A passionate Software Developer with over 5 years of experience from Chennai, In
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-4c4c4c?style=for-the-badge&logo=sublime-text&logoColor=ff9800)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Support:
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
-
 ## GitHub Stats
 ![Gopinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gopinathmaharaja&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopinathmaharaja&layout=compact&theme=dark)
