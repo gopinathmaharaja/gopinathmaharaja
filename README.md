@@ -7,11 +7,11 @@ A passionate Software Developer with over 5 years of experience from Chennai, In
 - 🌱 I’m currently learning Machine Learning and GO Lang.
 - 💬 Ask me about Node.js, React, Angular, or any web development-related topics.
 - 📫 How to reach me: gopinathmaharaja@gmail.com
-- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/gopinath-maharaja)
+- 🌐 Visit my [LinkedIn]([https://www.linkedin.com/in/gopinath-maharaja](https://www.linkedin.com/in/gopinath​-maharaja-235133142)
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopinath-maharaja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gopinath-maharaja](https://www.linkedin.com/in/gopinath​-maharaja-235133142)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopinathmaharaja)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopinathmaharaja@gmail.com)
 
