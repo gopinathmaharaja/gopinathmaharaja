@@ -4,8 +4,8 @@ A passionate Software Developer with over 5 years of experience from Chennai, In
 
 ![Profile views](https://komarev.com/ghpvc/?username=gopinathmaharaja&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning Machine Learning and GO Lang.
-- 💬 Ask me about Node.js, React, Angular, or any web development-related topics.
+- 🌱 I’m currently learning GO Lang.
+- 💬 Ask me about Node.js, React, ReactNative or any web development-related topics.
 - 📫 How to reach me: gopinathmaharaja@gmail.com
 - 🌐 Visit my [LinkedIn]([https://www.linkedin.com/in/gopinath-maharaja](https://www.linkedin.com/in/gopinath​-maharaja-235133142)
 
