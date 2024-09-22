@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gopinath Maharaja
 
-A passionate Software Developer with over 5 years of experience from Chennai, India.
+A passionate Software Developer with over 6 years of experience from Chennai, India.
 
 ![Profile views](https://komarev.com/ghpvc/?username=gopinathmaharaja&label=Profile%20views&color=0e75b6&style=flat)
 
