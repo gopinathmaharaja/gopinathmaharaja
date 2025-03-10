@@ -7,7 +7,7 @@ A passionate Software Developer with over 6 years of experience from Chennai, In
 - 🌱 I’m currently learning GO Lang.
 - 💬 Ask me about Node.js, React, ReactNative or any web development-related topics.
 - 📫 How to reach me: gopinathmaharaja@gmail.com
-- 🌐 Visit my [LinkedIn]([https://www.linkedin.com/in/gopinath-maharaja](https://www.linkedin.com/in/gopinath​-maharaja-235133142)
+- 🌐 Visit my [LinkedIn]([https://www.linkedin.com/in/gopinath-maharaja])(https://www.linkedin.com/in/gopinath​-maharaja-235133142)
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
